@@ -4,7 +4,7 @@ This is a simple web-based calculator that helps you determine the future value 
 
 ## How to Use
 
-1. Open the [Future Value Calculator](https://tarushvkodes.github.io/future-value-calculator) in your web browser.
+1. Open the [Future Value Calculator](https://githubnext.github.io/workspace-blank/) in your web browser.
 2. Enter the initial investment amount in the "Initial Investment" field.
 3. Enter the annual contribution amount in the "Annual Contribution" field.
 4. Enter the number of years you plan to invest in the "Years" field.
@@ -15,6 +15,23 @@ This is a simple web-based calculator that helps you determine the future value 
 ## Example
 
 If you start with an initial investment of $1,000, contribute $500 annually, invest for 10 years, and expect an annual interest rate of 5%, the calculator will display the future value of your investment.
+
+## Reverse Calculator
+
+The reverse calculator helps you determine the monthly contribution needed to reach a desired final amount based on the initial amount and interest rate.
+
+### How to Use
+
+1. Open the [Future Value Calculator](https://githubnext.github.io/workspace-blank/) in your web browser.
+2. Enter the desired final amount in the "Desired Final Amount" field.
+3. Enter the initial amount in the "Initial Amount" field.
+4. Enter the expected annual interest rate (in percentage) in the "Interest Rate (%)" field.
+5. Click the "Calculate" button.
+6. The monthly contribution needed to reach your desired final amount will be displayed below the button.
+
+## Example
+
+If you want to have a final amount of $10,000, start with an initial amount of $1,000, and expect an annual interest rate of 5%, the calculator will display the monthly contribution needed to reach your goal.
 
 ## GitHub Pages
 
