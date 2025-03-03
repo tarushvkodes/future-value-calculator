@@ -4,7 +4,7 @@ This is a simple web-based calculator that helps you determine the future value 
 
 ## How to Use
 
-1. Open the [Future Value Calculator](https://githubnext.github.io/workspace-blank/) in your web browser.
+1. Open the [Future Value Calculator](https://tarushvkodes.github.io/future-value-calculator) in your web browser.
 2. Enter the initial investment amount in the "Initial Investment" field.
 3. Enter the annual contribution amount in the "Annual Contribution" field.
 4. Enter the number of years you plan to invest in the "Years" field.
