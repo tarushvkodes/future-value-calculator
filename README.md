@@ -36,3 +36,29 @@ If you want to have a final amount of $10,000, start with an initial amount of $
 ## GitHub Pages
 
 You can access the Future Value Calculator on GitHub Pages [here](https://githubnext.github.io/workspace-blank/).
+
+## Data Processing Script
+
+A data processing script is provided to process data files and keep only location, year, and value. The script also calculates the mean for multiple data points per year and extrapolates missing data points for years 2000-2023.
+
+### How to Use
+
+1. Place your data files in the `data_files` directory.
+2. Run the `data_processing.py` script.
+3. The processed data files will be saved in the same directory with the prefix `processed_`.
+
+## Example Data Format
+
+The processed data files will have the following format:
+
+```
+location,year,value
+Location1,2000,Value1
+Location1,2001,Value2
+...
+Location1,2023,Value23
+Location2,2000,Value1
+Location2,2001,Value2
+...
+Location2,2023,Value23
+```
